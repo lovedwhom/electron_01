@@ -1,0 +1,23 @@
+{
+  "name": "electron_01",
+  "version": "1.0.0",
+  "description": "学习electron Day1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovedwhom/electron_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovedwhom/electron_01/issues"
+  },
+  "homepage": "https://github.com/lovedwhom/electron_01#readme",
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
+}
