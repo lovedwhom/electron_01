@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/lovedwhom/electron_01#readme",
   "dependencies": {
-    "electron": "^9.0.0"
+    "electron": "^13.6.6"
   }
 }
